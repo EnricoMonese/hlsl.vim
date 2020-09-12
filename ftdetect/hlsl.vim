@@ -1,1 +1,1 @@
-execute 'autocmd BufRead,BufNewFile *.fx,*.fxc,*.fxh,*.hlsl setfiletype hlsl'
+execute 'autocmd BufRead,BufNewFile *.fx,*.fxc,*.fxh,*.hlsl,*.shader setfiletype hlsl'

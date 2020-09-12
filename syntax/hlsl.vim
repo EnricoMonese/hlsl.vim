@@ -2,7 +2,7 @@
 " Language:     HLSL (DirectX 11)
 " Author:       Marc Costa <beyond.marc@gmail.com>
 " Date:         December 29, 2012
-" File Types:   .hlsl, .hlslc, .hlslh, .hlsl
+" File Types:   .hlsl, .hlslc, .hlslh, .hlsl, .shader
 " Version:      0.1
 " Notes:        Adapted from hlsl.vim - Kevin Bjorke <kbjorke@nvidia.com>
 
