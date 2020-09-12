@@ -147,7 +147,7 @@ syn keyword         hlslType                ConstantBuffer Buffer ByteAddressBuf
 syn keyword         hlslType                AppendStructuredBuffer RWBuffer RWByteAddressBuffer RWStructuredBuffer
 
 " Scalar types
-syn keyword         hlslType                bool int uint dword half float double
+syn keyword         hlslType                bool int uint dword half float double fixed
 syn keyword         hlslType                min16float min10float min16int min12int min16uint
 
 " Vector types
@@ -156,6 +156,7 @@ syn keyword         hlslType                bool1 bool2 bool3 bool4
 syn keyword         hlslType                int1 int2 int3 int4
 syn keyword         hlslType                uint1 uint2 uint3 uint4
 syn keyword         hlslType                dword1 dword2 dword3 dword4
+syn keyword         hlslType                fixed1 fixed2 fixed3 fixed4
 syn keyword         hlslType                half1 half2 half3 half4
 syn keyword         hlslType                float1 float2 float3 float4
 syn keyword         hlslType                double1 double2 double3 double4
